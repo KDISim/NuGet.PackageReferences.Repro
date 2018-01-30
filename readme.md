@@ -20,6 +20,6 @@ When we build project 4 we see the following in the bin folder:
 As you can see version 3.1.1 of the System.Reactive.Core package was used here.
 
 [dependencies]: images/dependencies.png
-[project1_bin]: images/project1.bin.png
-[project3_bin]: images/project3.bin.png
-[project4_bin]: images/project4.bin.png
+[project1_bin]: images/Project1.bin.png
+[project3_bin]: images/Project3.bin.png
+[project4_bin]: images/Project4.bin.png
