@@ -49,6 +49,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Project1\Project1.csproj">
+      <Project>{0e258150-fc88-42f1-92b0-cb586ab00604}</Project>
+      <Name>Project1</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Project2\Project2.csproj">
       <Project>{4eddcda5-e25e-46f6-9084-0bbc453b1b30}</Project>
       <Name>Project2</Name>
